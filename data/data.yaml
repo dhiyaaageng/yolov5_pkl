@@ -8,6 +8,6 @@ names: ['bad', 'good']
 roboflow:
   workspace: cornkernel1
   project: cornkernel1
-  version: 6
+  version: 7
   license: CC BY 4.0
-  url: https://universe.roboflow.com/cornkernel1/cornkernel1/dataset/6
+  url: https://universe.roboflow.com/cornkernel1/cornkernel1/dataset/7
